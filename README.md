@@ -1,2 +1,2 @@
 # spark-on-k8s
-spark on kubernetes standalone spark version 3.1.2 hadoop version 3.3.1
+<img width="392" alt="WechatIMG3965" src="https://user-images.githubusercontent.com/19265128/131081792-2c44ac85-7dfa-43e3-ada8-0beb79ee39d7.png">
